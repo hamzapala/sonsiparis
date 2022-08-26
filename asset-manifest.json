@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sonsiparis/static/css/main.7096e46b.css",
+    "main.js": "/sonsiparis/static/js/main.fe45401c.js",
+    "index.html": "/sonsiparis/index.html",
+    "main.7096e46b.css.map": "/sonsiparis/static/css/main.7096e46b.css.map",
+    "main.fe45401c.js.map": "/sonsiparis/static/js/main.fe45401c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7096e46b.css",
+    "static/js/main.fe45401c.js"
+  ]
+}
